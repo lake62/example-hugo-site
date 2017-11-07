@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on My super-duper Hugo website</title>
+    <link>https://lake62.github.io/example-hugo-site/post/</link>
+    <description>Recent content in Posts on My super-duper Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2017 02:00:21 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lake62.github.io/example-hugo-site/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>:star: My first post</title>
-      <link>http://example.org/post/first-post/</link>
+      <link>https://lake62.github.io/example-hugo-site/post/first-post/</link>
       <pubDate>Mon, 06 Nov 2017 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/first-post/</guid>
+      <guid>https://lake62.github.io/example-hugo-site/post/first-post/</guid>
       <description>My first post My first post following the tutorial from Jacob &amp;lsquo;GeekLaunch&amp;rsquo; on YouTube.
 Let&amp;rsquo;s start.</description>
     </item>
     
     <item>
       <title>:star: Emoji Support :exclamation:</title>
-      <link>http://example.org/post/emoji-support/</link>
+      <link>https://lake62.github.io/example-hugo-site/post/emoji-support/</link>
       <pubDate>Thu, 06 Jul 2017 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/emoji-support/</guid>
+      <guid>https://lake62.github.io/example-hugo-site/post/emoji-support/</guid>
       <description>&lt;p&gt;:sushi: :beer:&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -34,19 +34,19 @@ Let&amp;rsquo;s start.</description>
     
     <item>
       <title>Table Of Contents</title>
-      <link>http://example.org/post/table-of-contents/</link>
+      <link>https://lake62.github.io/example-hugo-site/post/table-of-contents/</link>
       <pubDate>Wed, 05 Jul 2017 23:02:42 -0500</pubDate>
       
-      <guid>http://example.org/post/table-of-contents/</guid>
+      <guid>https://lake62.github.io/example-hugo-site/post/table-of-contents/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Javascript Support</title>
-      <link>http://example.org/post/javascript-support/</link>
+      <link>https://lake62.github.io/example-hugo-site/post/javascript-support/</link>
       <pubDate>Tue, 04 Jul 2017 20:55:50 -0500</pubDate>
       
-      <guid>http://example.org/post/javascript-support/</guid>
+      <guid>https://lake62.github.io/example-hugo-site/post/javascript-support/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

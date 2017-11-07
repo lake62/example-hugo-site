@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Themes on My New Hugo Site</title>
-    <link>http://example.org/tags/themes/</link>
-    <description>Recent content in Themes on My New Hugo Site</description>
+    <title>Themes on My super-duper Hugo website</title>
+    <link>https://lake62.github.io/example-hugo-site/tags/themes/</link>
+    <description>Recent content in Themes on My super-duper Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Nov 2017 02:00:21 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lake62.github.io/example-hugo-site/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>:star: My first post</title>
-      <link>http://example.org/post/first-post/</link>
+      <link>https://lake62.github.io/example-hugo-site/post/first-post/</link>
       <pubDate>Mon, 06 Nov 2017 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/first-post/</guid>
+      <guid>https://lake62.github.io/example-hugo-site/post/first-post/</guid>
       <description>My first post My first post following the tutorial from Jacob &amp;lsquo;GeekLaunch&amp;rsquo; on YouTube.
 Let&amp;rsquo;s start.</description>
     </item>

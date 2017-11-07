@@ -3,168 +3,168 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/first-post/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/post/first-post/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/emoji-support/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/post/emoji-support/</loc>
     <lastmod>2017-07-06T02:00:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/table-of-contents/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/post/table-of-contents/</loc>
     <lastmod>2017-07-05T23:02:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/javascript-support/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/post/javascript-support/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/project/hugo-now/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/project/hugo-now/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/dashboard/blog/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/dashboard/blog/</loc>
     <lastmod>2017-07-03T15:21:37-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/bash/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/bash/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/blog/</loc>
     <lastmod>2017-07-03T15:21:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/bootstrap/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/bootstrap/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/dashboard/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/dashboard/</loc>
     <lastmod>2017-07-03T15:21:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/dashboard/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/dashboard/</loc>
     <lastmod>2017-07-03T15:21:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/demo/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/demo/</loc>
     <lastmod>2017-07-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/emoji/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/emoji/</loc>
     <lastmod>2017-07-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/feature/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/feature/</loc>
     <lastmod>2017-07-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/hugo/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo-blog-theme/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/hugo-blog-theme/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/hugo-theme/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/hugo-theme/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/javascript/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/javascript/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/noscript/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/noscript/</loc>
     <lastmod>2017-07-04T20:55:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/point_left/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/point_left/</loc>
     <lastmod>2017-07-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/post/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/project/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/project/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/table-of-contents/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/table-of-contents/</loc>
     <lastmod>2017-07-05T23:02:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tech/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/tech/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/themes/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/themes/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/tutorial/</loc>
+    <loc>https://lake62.github.io/example-hugo-site/tags/tutorial/</loc>
     <lastmod>2017-11-06T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>

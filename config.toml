@@ -1,6 +1,6 @@
-baseurl = "https://lake62.github.io/example-hugo-site"
+baseurl = "https://lake62.github.io/example-hugo-site/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My super-duper Hugo website"
 # theme
 theme = "hugo-now"
 # Comment the themesDir option if you use this theme in production

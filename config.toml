@@ -1,0 +1,26 @@
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+# theme
+theme = "hugo-now"
+# Comment the themesDir option if you use this theme in production
+themesDir = "themes"
+# google analytics
+GoogleAnalytics = "UA-XXXXXX"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  description = "My example-website"
+  author = "RiddleHitch"
+  keywords = ["hugo-now", "hugo"]
+  avatar = "/images/hugo.png"
+  displayauthor = false
+  # pygments
+  PygmentsUseClasses = true
+  PygmentsCodeFences = true
+  # pagination
+  paginate = 10
+  paginatePath = "page"
